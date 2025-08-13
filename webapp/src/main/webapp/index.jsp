@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank You!!! Plss work!!!! </h1>
-   <h1> Don't See You Again </h1>
+   <h1> Ganapati Bappa Morya!!! </h1>
   
 </form>
