@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Vins Registration APP</h1>
-    <p>Please Do not fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You, Boii </h1>
+   <h1> Thank You!!! </h1>
    <h1> Don't See You Again </h1>
   
 </form>
